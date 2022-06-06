@@ -14,7 +14,9 @@ ________________________________________________________________________________
     *Git
 
 ## Code Example
-
+function multiply(a, b) {
+  return a * b;
+}
 ## Experience
     Freelance
 ## Education
