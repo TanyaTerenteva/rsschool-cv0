@@ -5,8 +5,7 @@ ________________________________________________________________________________
     Email: tayeterry@gmail.com
     Discord: @TayaTerry
     Telegram: @tayaterry
-_________________________________________________________________________________________________________________________________
-
+    
 ## Skills
     *HTML
     *CSS
@@ -19,8 +18,10 @@ function multiply(a, b) {
 }
 ## Experience
     Freelance
+
 ## Education
 Vitebsk State University
+
 ## English
 Pre-intermediate level    
     
